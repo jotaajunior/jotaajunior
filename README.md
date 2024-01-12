@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jota
 ### A full stack developer from Brazil 
 
-- 👩‍🎓 I'm a Computer Science student at [UFERSA](https://github.com/ufersa)
+- 👩‍🎓 Computer Scientist
 
 - 💼 Currently working at FCamara and [DrConsulta](https://github.com/DrConsulta) as Software Engineer
 
